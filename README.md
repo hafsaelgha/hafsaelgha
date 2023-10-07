@@ -17,13 +17,22 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 ### ☁️ Cloud Computing Platform 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 💽 Distributed Big Data systems
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-02569B?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![Apache MapReduce](https://img.shields.io/badge/Apache%20MapReduce-FF7F2A?style=for-the-badge&logo=apache-mapreduce&logoColor=white)
+![YARN](https://img.shields.io/badge/YARN-FF7F2A?style=for-the-badge&logo=apache-yarn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+### 💬 Stream-processing frameworks
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+### 🕒 Orchestration tools
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Mage Icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmage-ai&psig=AOvVaw3NDeZtnX0QXNGFR2fznav_&ust=1696727150549000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCT3arf4oEDFQAAAAAdAAAAABAE)
+### 🐳 Containerization 
 
-
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 - 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
 
 
