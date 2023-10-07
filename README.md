@@ -1,6 +1,6 @@
 # Hafsa-ELGHAMRAOUI
 ## Data Engineer | Enthusiast | Problem Solver | 
-                ![Hey Guys !](https://img.shields.io/badge/Hey%20Guys%20!-8A2BE2)
+![Hey Guys !](https://img.shields.io/badge/Hey%20Guys%20!-8A2BE2)
 
 Welcome to my GitHub profile! I'm passionate about all things data engineering and excited to share my projects and contributions with you.
 
