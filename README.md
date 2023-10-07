@@ -1,6 +1,6 @@
 # Hafsa-ELGHAMRAOUI
 ## Data Engineer | Enthusiast | Problem Solver | 
-
+https://img.shields.io/badge/Data-Business-pink
 Welcome to my GitHub profile! I'm passionate about all things data engineering and excited to share my projects and contributions with you.
 
 ### 💻 About Me
