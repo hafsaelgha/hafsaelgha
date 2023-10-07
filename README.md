@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 - 📊 Strong business and CRM background.
 - 💻 Experienced in designing and building data pipelines for data processing and analysis.
 - 🧩 A problem solver who loves tackling complex data challenges.
+- 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
+
 ## 🛠 Data tools and technologies
 ### 💻 Programming Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,10 +31,21 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ### 🕒 Orchestration tools
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Mage-ai](https://img.shields.io/badge/mage-ai)
-
+![Mage.ai](https://img.shields.io/badge/mage-ai)
 ### 🐳 Containerization 
-- 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔬 Testing tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=for-the-badge&logo=sonarlint&logoColor=white)
+![SpotBugs](https://img.shields.io/badge/SpotBugs-D15548?style=for-the-badge&logo=java&logoColor=white)
+![PMD](https://img.shields.io/badge/PMD-005C8E?style=for-the-badge&logo=java&logoColor=white)
+### Other
+🐧 Unix-based command line
+🐱 Version Control: Git
+### Project management 
+📈CRM, 🏉SCRUM, 💼ERP, 📊Business model, 📅Project management  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)   ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
 
 
 
