@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 - 💻 Experienced in designing and building data pipelines for data processing and analysis.
 - 🧩 A problem solver who loves tackling complex data challenges.
 - 🛠 Proficient in various data tools and technologies, including (Python, Amazon Web Services, Google Cloud, Apache Airflow, Mage.ai ...).
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
 
 
