@@ -2,6 +2,8 @@
 ## Data Engineer | Enthusiast | Problem Solver | 
 
 Welcome to my GitHub profile! I'm passionate about all things data engineering and excited to share my projects and contributions with you.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### About Me
 - 📚 Data enthusiast with a strong foundation in data engineering.
