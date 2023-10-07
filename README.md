@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ### 🕒 Orchestration tools
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
-[](https://img.shields.io/badge/mage-ai)
+![Mage-ai](https://img.shields.io/badge/mage-ai)
 
 ### 🐳 Containerization 
 - 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
