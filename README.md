@@ -1,8 +1,8 @@
 # Hafsa-ELGHAMRAOUI
-## Data Engineer | Enthusiast | Problem Solver | 
+## Data Engineer Enthusiast 📊| Problem Solver | Passionate About Cloud ☁️
 ![Hey Guys !](https://img.shields.io/badge/Hey%20Guys%20!-8A2BE2)
 
-**Welcome to my GitHub profile! I'm passionate about all things data engineering and excited to share my projects and contributions with you.**
+**Welcome to my GitHub profile 👋! I'm passionate about all things data engineering and excited to share📤my projects and contributions📁with you.**
 
 ### 💻 About Me
 - 📚 Data enthusiast with a strong foundation in data engineering.
