@@ -4,7 +4,7 @@
 
 **Welcome to my GitHub profile 👋! I'm passionate about all things data engineering and excited to share📤my projects and contributions📁with you.**
 
-### 💻 About Me
+### 👧 About Me
 - 📚 Data enthusiast with a strong foundation in data engineering.
 - 📊 Strong business and CRM background.
 - 🛢️ Experienced in designing and building data pipelines for data processing and analysis.
