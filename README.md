@@ -1,6 +1,5 @@
 # Hafsa-ELGHAMRAOUI
 ## Data Engineer | Enthusiast | Problem Solver | 
-[](https://img.shields.io/badge/Data-Business-pink)
 Welcome to my GitHub profile! I'm passionate about all things data engineering and excited to share my projects and contributions with you.
 
 ### 💻 About Me
@@ -30,9 +29,9 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ### 🕒 Orchestration tools
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Mage Icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmage-ai&psig=AOvVaw3NDeZtnX0QXNGFR2fznav_&ust=1696727150549000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCT3arf4oEDFQAAAAAdAAAAABAE)
-### 🐳 Containerization 
+[](https://img.shields.io/badge/mage-ai)
 
+### 🐳 Containerization 
 - 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
 
 
