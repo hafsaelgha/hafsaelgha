@@ -40,26 +40,15 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 ![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=for-the-badge&logo=sonarlint&logoColor=white)
 ![SpotBugs](https://img.shields.io/badge/SpotBugs-D15548?style=for-the-badge&logo=java&logoColor=white)
 ![PMD](https://img.shields.io/badge/PMD-005C8E?style=for-the-badge&logo=java&logoColor=white)
-### Other
+### ➕ Other
 🐧 Unix-based command line
 🐱 Version Control: Git
 ### Project management 
 📈CRM, 🏉SCRUM, 💼ERP, 📊Business model, 📅Project management  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)   ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
+### 📧 Reach Me
 
-
-
-### Projects
-
-Here are some of the projects you can find in my repository:
-
-- [ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics): A brief description of the project.
-- [Project 2 Name](link to project 2): Another exciting project with key highlights.
-- [Project 3 Name](link to project 3): Showcasing my diverse data engineering skills.
-
-### Contact Me
-
-Feel free to reach out and connect with me:
+Feel free to reach out and connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-elghamraoui/)
 
 - 📧 Email: [your@email.com](mailto:your@email.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
