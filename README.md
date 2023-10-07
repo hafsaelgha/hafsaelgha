@@ -48,6 +48,6 @@ Welcome to my GitHub profile! I'm passionate about all things data engineering a
 📈CRM, 🏉SCRUM, 💼ERP, 📊Business model, 📅Project management  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)   ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ### 📧 Reach Me
-Feel free to reach out and connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-elghamraoui/)
+Feel free to reach out and connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-elghamraoui/) [![Gmail](hafsaelghamraoui1@gmail.com)]
 
 Let's collaborate, learn, and grow together in the world of data engineering! 🚀
