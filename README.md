@@ -7,7 +7,7 @@
 ### 💻 About Me
 - 📚 Data enthusiast with a strong foundation in data engineering.
 - 📊 Strong business and CRM background.
-- 💻 Experienced in designing and building data pipelines for data processing and analysis.
+- 🛢️ Experienced in designing and building data pipelines for data processing and analysis.
 - 🧩 A problem solver who loves tackling complex data challenges.
 - 🌟 Always eager to learn and stay up-to-date with the latest developments in the data engineering field.
 
